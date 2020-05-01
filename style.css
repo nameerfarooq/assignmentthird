@@ -1,0 +1,327 @@
+@font-face{
+    src: url(Merriweather-Regular.ttf);
+    font-family:Merriweather ;
+}
+.onezero{
+    background-color: rgb(49, 109, 195);
+    justify-content: space-around;
+    height: auto;
+    
+}
+.oneone img{
+    height: 16px;
+    width: 16px;
+    filter: brightness(1000); 
+    -webkit-filter:brightness(1000);
+    margin-left: 14px;
+    
+}
+.oneone{
+    margin-left: auto;
+}
+.onetwo{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right:5%;
+    text-align: justify;
+}
+.onethree button{
+    background-color: white;
+    color: grey;
+}
+.twozero{
+    background-color: rgb(247, 248, 250);
+    height: auto;
+    line-height: 70px;
+    
+}
+
+.twoone img{
+    width: 200px;
+    margin-left: -18% !important;
+}
+.twotwo button{
+    border:none;
+    color:black;
+    transition-duration: 0.2s;
+    font: 17px calibri;
+    border-radius: 12px;
+
+
+}
+.twotwo button:hover{
+    background-color: rgb(49, 109, 195);
+    color:white;
+    
+}
+marquee{
+    background-color:rgb(49, 109, 195) ;
+    height: 25px;
+    color: white;
+    vertical-align: middle;
+}
+.threeone{
+    text-align: center;
+    background-color: rgb(247, 248, 250);
+    margin-top: 10px;
+}
+.saylanimainpic{
+    width: 100%;
+}
+.threetwo {
+    color:rgb(49, 109, 195);
+    display:inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    
+}
+.threethree {
+    color:rgb(19, 146, 19);
+    display:inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    margin-left: -8px;
+}
+.threeone img{
+    height: 40px;
+    display: inline;
+}
+
+.threefour div{
+    color:rgb(19, 146, 19) ;
+    display: inline;
+    vertical-align: bottom;
+    margin-right:5px;
+    margin-left: 5px;
+    font-size: xx-large;
+}
+.threefive p{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: grey;
+    margin-bottom: 25px;
+}
+.threefive{
+    padding-bottom: 60px;
+}
+.fourrow{
+    height: auto;
+    background-color:#2655e8;
+}
+.fourrow div{
+    
+    height: 180px;
+    margin: 60px auto 60px auto;
+    
+    text-align: center;
+   
+    
+   
+    
+}
+.fourone img{
+    
+    height: 40px;
+    margin-top: 20px;
+   
+}
+.fourone h2,h6{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: white;
+    
+
+}
+#heading6{
+    display: inline;
+    color: rgb(0, 255, 0);
+
+}
+.fivezero{
+    background-color:rgb(247, 248, 250) ;
+    text-align: center;
+}
+.fivezero h2{
+    display: inline;
+    
+    font-family: 'Merriweather', serif;
+
+}
+.fivetwo{
+    margin-top: 50px;
+}
+.fivetwo h2{
+    font-weight: bolder;
+}
+#picture{
+    height: 40px;
+    display: inline;
+}
+.sixzero{
+    background-color:rgb(247, 248, 250) ;
+    text-align: center;
+    
+    padding-top: 50px;
+    
+    
+}
+.sixzero2{
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+   
+}
+.sixzero2 div{
+    
+    padding: 30px !important;
+   
+    max-width: 355px;
+    min-width: 350px;
+    height: 180px;
+    margin-left: 10px;
+    margin-right:10px;
+    
+    margin-bottom: 30px !important;
+    background-color: white;
+    box-shadow: 5px 12px 12px 5px #e4e5e7;
+   
+    
+}
+.sixzero2 img{
+    height: 70px;
+    width: 70px;
+}
+.sixzero2 h5{
+    padding-top: 20px !important;
+    font-weight: bolder;
+    font-family: 'Merriweather', serif;
+    color: #2655e8;
+    
+}
+.sevenzero div{
+    /* border: lawngreen 1px solid; */
+}
+.sevenfour,#upcoming{
+    font-weight: bolder;
+    font-family: 'Merriweather', serif;
+    color: #2655e8;
+    margin-left: 30px;
+    margin-top: 60px;
+  
+    
+}
+
+  
+}
+.sevenzero2{
+    margin-top: 60px;
+}
+.sevensix{
+    background-color:rgb(247, 248, 250) ;
+    height: 75px;
+    max-width: 370px;
+    vertical-align: middle;
+    line-height: 75px;
+    
+    margin-bottom: 15px;
+    margin-left: 30px;
+    
+    
+}
+.sevensix h5{
+    display: inline;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: 'Merriweather', serif;
+    color: #2655e8;
+    padding-left: 20px;
+}
+.sevensix img{
+    height: 30px;
+}
+.sevenfive{
+    padding-left: 15px;
+}
+#abc{
+    margin-top: 35px;
+}
+.marquee2{
+    margin-top: 40px;
+    height: 230px;
+    width: 250px;
+    background-color:white ;
+    color: grey;
+    padding-left: 30px;
+
+}
+.imagegallery img{
+    height: 158px;
+    width: 238px;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-top: 5px;
+}
+.imagegallery{
+    justify-content: center;
+    margin-top: 50px;
+}
+.eightzero{
+    background-color: rgb(49, 49, 49);
+    height: auto;
+    color: white;
+    padding-bottom: 35px;
+    
+}
+.eightzerorow{
+    margin-bottom: 100px !important;
+    background-color: rgb(49, 49, 49);
+    justify-content: center;
+}
+/* .eightzero div{
+    border: white 1px solid;
+
+} */
+.eightzerop p{
+    margin-top: -12px;
+    color: #bbb;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    
+}
+.eightzerop{
+    margin-top: 80px;
+    margin-left: 30px;
+    /* max-width: 350px; */
+}
+.eightzerop2{
+    margin-top: 80px;
+  
+}
+/* #useful{
+    font-weight: 600;
+    border-bottom : #bbb 3px solid;
+    font-family: 'Merriweather', serif; */
+}
+#useful1{
+    font-weight: 600;
+    
+    font-family: 'Merriweather', serif;
+}
+#logos img{
+    height: 30px;
+    width: 30px;
+    filter: brightness(1000); 
+    -webkit-filter:brightness(1000);
+    margin: 8px 5px 0px 5px;
+    position: ;
+}
+#logos{
+    max-width: 400px;
+}
+#images{
+    height: 20px;
+}
+#m{
+    padding-left: 8px;
+}
